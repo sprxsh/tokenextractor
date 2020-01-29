@@ -1,0 +1,21 @@
+C:\Users\xCreations\Desktop\AnarchyGrabber-master\AnarchyGrabber\obj\Debug\SerenityToken.csprojAssemblyReference.cache
+C:\Users\xCreations\Desktop\AnarchyGrabber-master\AnarchyGrabber\obj\Debug\SerenityToken.csproj.CoreCompileInputs.cache
+C:\Users\xCreations\Desktop\AnarchyGrabber-master\AnarchyGrabber\bin\Debug\Serenity Token Extractor.exe.config
+C:\Users\xCreations\Desktop\AnarchyGrabber-master\AnarchyGrabber\bin\Debug\Serenity Token Extractor.exe
+C:\Users\xCreations\Desktop\AnarchyGrabber-master\AnarchyGrabber\bin\Debug\Serenity Token Extractor.pdb
+C:\Users\xCreations\Desktop\AnarchyGrabber-master\AnarchyGrabber\obj\Debug\Serenity Token Extractor.exe
+C:\Users\xCreations\Desktop\AnarchyGrabber-master\AnarchyGrabber\obj\Debug\Serenity Token Extractor.pdb
+C:\Users\xCreations\Desktop\AnarchyGrabber\bin\Debug\Serenity Token Extractor.exe.config
+C:\Users\xCreations\Desktop\AnarchyGrabber\bin\Debug\Serenity Token Extractor.exe
+C:\Users\xCreations\Desktop\AnarchyGrabber\obj\Debug\SerenityToken.csprojAssemblyReference.cache
+C:\Users\xCreations\Desktop\AnarchyGrabber\obj\Debug\SerenityToken.csproj.CoreCompileInputs.cache
+C:\Users\xCreations\Desktop\AnarchyGrabber\obj\Debug\Serenity Token Extractor.exe
+C:\Users\xCreations\Desktop\AnarchyGrabber\obj\Debug\Serenity Token Extractor.pdb
+C:\Users\xCreations\Desktop\AnarchyGrabber\bin\Debug\Serenity Token Extractor.pdb
+C:\Users\xCreations\Desktop\Discord Token Grabber\SerenityGrabber\bin\Debug\Serenity Token Extractor.exe.config
+C:\Users\xCreations\Desktop\Discord Token Grabber\SerenityGrabber\bin\Debug\Serenity Token Extractor.exe
+C:\Users\xCreations\Desktop\Discord Token Grabber\SerenityGrabber\obj\Debug\SerenityToken.csprojAssemblyReference.cache
+C:\Users\xCreations\Desktop\Discord Token Grabber\SerenityGrabber\obj\Debug\SerenityToken.csproj.CoreCompileInputs.cache
+C:\Users\xCreations\Desktop\Discord Token Grabber\SerenityGrabber\obj\Debug\Serenity Token Extractor.exe
+C:\Users\xCreations\Desktop\Discord Token Grabber\SerenityGrabber\obj\Debug\Serenity Token Extractor.pdb
+C:\Users\xCreations\Desktop\Discord Token Grabber\SerenityGrabber\bin\Debug\Serenity Token Extractor.pdb
